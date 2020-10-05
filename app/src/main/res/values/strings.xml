@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="text_to_share">text_to_share</string>
+    <string name="edittext_uri">http://developer.android.com</string>
+
+
+</resources>
